@@ -11,3 +11,8 @@ body{
     place-content: center;
     background: #001d3d;
 }
+h1{
+    color: #fff;
+    font-size: 4rem;
+    font-weight: 500;
+}
